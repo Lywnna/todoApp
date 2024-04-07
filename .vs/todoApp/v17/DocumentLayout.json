@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|c:\\users\\lywnna\\source\\repos\\todoapp\\todoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoapp\\data\\lang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\data\\lang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoapp\\en.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\en.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoapp\\config\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\config\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|c:\\users\\lywnna\\source\\repos\\todoapp\\todoapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B442C3-E303-4047-A153-C851DA1E0EE9}|todoApp\\todoApp.csproj|solutionrelative:todoapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\Form1.cs",
-              "RelativeDocumentMoniker": "todoApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\Form1.cs [Design]",
-              "RelativeToolTip": "todoApp\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\config\\Function.cs",
+              "RelativeDocumentMoniker": "todoApp\\config\\Function.cs",
+              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\config\\Function.cs",
+              "RelativeToolTip": "todoApp\\config\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:46:47.927Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-07T02:20:23.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "en.ini",
+              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\en.ini",
+              "RelativeDocumentMoniker": "todoApp\\en.ini",
+              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\en.ini",
+              "RelativeToolTip": "todoApp\\en.ini",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-04-07T02:04:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lang.cs",
+              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\data\\Lang.cs",
+              "RelativeDocumentMoniker": "todoApp\\data\\Lang.cs",
+              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\data\\Lang.cs",
+              "RelativeToolTip": "todoApp\\data\\Lang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:42:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\forms\\Form1.cs",
+              "RelativeDocumentMoniker": "todoApp\\forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\forms\\Form1.cs",
+              "RelativeToolTip": "todoApp\\forms\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:32:28.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\data\\Database.cs",
+              "RelativeDocumentMoniker": "todoApp\\data\\Database.cs",
+              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\data\\Database.cs",
+              "RelativeToolTip": "todoApp\\data\\Database.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T20:57:47.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\forms\\Form1.cs",
+              "RelativeDocumentMoniker": "todoApp\\forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lywnna\\source\\repos\\todoApp\\todoApp\\forms\\Form1.cs [Design]",
+              "RelativeToolTip": "todoApp\\forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:46:47.927Z"
             }
           ]
         }
