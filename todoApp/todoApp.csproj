@@ -98,11 +98,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="config\Encryption.cs" />
-    <Compile Include="config\Function.cs" />
+    <Compile Include="unit\Encryption.cs" />
+    <Compile Include="unit\Function.cs" />
     <Compile Include="data\Database.cs" />
-    <Compile Include="config\IniFile.cs" />
-    <Compile Include="data\Lang.cs" />
+    <Compile Include="unit\IniFile.cs" />
     <Compile Include="forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,9 +121,9 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="config\packages.config" />
-    <None Include="en.ini" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -134,7 +133,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="pt.ini" />
   </ItemGroup>
   <ItemGroup>
     <None Include="config\App.config" />
